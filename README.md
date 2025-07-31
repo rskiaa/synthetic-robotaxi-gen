@@ -1,4 +1,4 @@
-# Synthetic Robotaxi Data Generator
+# Synthetic Data Generator - Robotaxi 
 
 This project uses OpenAI's GPT model to generate realistic synthetic data for self-driving cars (e.g., Zoox, Waymo). 
 
