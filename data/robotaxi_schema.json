@@ -1,0 +1,12 @@
+{
+  "timestamp": "ISO 8601 datetime",
+  "vehicle_speed_kmph": "float",
+  "gps_lat": "float",
+  "gps_long": "float",
+  "lane_detected": "boolean",
+  "object_in_path": "boolean",
+  "object_distance_m": "float",
+  "lidar_point_count": "integer",
+  "camera_blur_score": "float",
+  "weather": "sunny/rainy/foggy/night"
+}

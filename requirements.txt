@@ -1,0 +1,4 @@
+openai
+pandas
+typer[all]
+streamlit
